@@ -1,0 +1,979 @@
+{
+  "lines": {
+    "O01": {
+      "speaker": "olly",
+      "text": "Let's go! I'm gonna be the winner!",
+      "arabic": "هيا بنا! سأفوز بهذا السباق!",
+      "emotion": "excited"
+    },
+    "O02": {
+      "speaker": "olly",
+      "text": "Look at me! I'm flowing like a champion!",
+      "arabic": "انظروا إليّ! أنا أتدفق مثل الأبطال!",
+      "emotion": "playful"
+    },
+    "O03": {
+      "speaker": "olly",
+      "text": "Nobody can stop the mighty Olly!",
+      "arabic": "لا أحد يستطيع إيقاف أولي العظيم!",
+      "emotion": "confident"
+    },
+    "O04": {
+      "speaker": "olly",
+      "text": "Smooth and steady! That's my style!",
+      "arabic": "بهدوء وثبات! هذه طريقتي!",
+      "emotion": "confident"
+    },
+    "O05": {
+      "speaker": "olly",
+      "text": "Ha-ha! This tubing belongs to me!",
+      "arabic": "ها ها! أنبوب الإنتاج هذا لي!",
+      "emotion": "playful"
+    },
+    "O06": {
+      "speaker": "olly",
+      "text": "All the way to the surface, baby!",
+      "arabic": "إلى السطح، هيّا!",
+      "emotion": "excited"
+    },
+    "O07": {
+      "speaker": "olly",
+      "text": "Whoa! What's happening to the pressure?",
+      "arabic": "واو! ماذا يحدث للضغط؟",
+      "emotion": "surprised"
+    },
+    "O08": {
+      "speaker": "olly",
+      "text": "Hey! Something feels different!",
+      "arabic": "مهلًا! أشعر بأن شيئًا تغيّر!",
+      "emotion": "surprised"
+    },
+    "O09": {
+      "speaker": "olly",
+      "text": "Wait a minute... did somebody move?",
+      "arabic": "لحظة… هل تحرّك أحد؟",
+      "emotion": "playful"
+    },
+    "O10": {
+      "speaker": "olly",
+      "text": "Hey! Who invited you?",
+      "arabic": "مهلًا! من دعاك؟",
+      "emotion": "surprised"
+    },
+    "O11": {
+      "speaker": "olly",
+      "text": "Hold on! This was supposed to be MY race!",
+      "arabic": "لحظة! كان من المفترض أن يكون هذا سباقي أنا!",
+      "emotion": "frustrated"
+    },
+    "O12": {
+      "speaker": "olly",
+      "text": "You? Challenge me? Ha! Good luck!",
+      "arabic": "أنت؟ تتحدّاني؟ ها! حظًا موفقًا!",
+      "emotion": "competitive"
+    },
+    "O13": {
+      "speaker": "olly",
+      "text": "Hey! Slow down, you little bubble!",
+      "arabic": "مهلًا! تمهّلي أيتها الفقّاعة الصغيرة!",
+      "emotion": "frustrated"
+    },
+    "O14": {
+      "speaker": "olly",
+      "text": "That's not fair! You're so bouncy!",
+      "arabic": "هذا ليس عدلًا! أنت تقفز طوال الوقت!",
+      "emotion": "frustrated"
+    },
+    "O15": {
+      "speaker": "olly",
+      "text": "Okay, okay! This is getting interesting!",
+      "arabic": "حسنًا، حسنًا! بدأ السباق يصبح ممتعًا!",
+      "emotion": "competitive"
+    },
+    "O16": {
+      "speaker": "olly",
+      "text": "Don't celebrate yet! The race isn't over!",
+      "arabic": "لا تحتفل الآن! السباق لم ينتهِ بعد!",
+      "emotion": "competitive"
+    },
+    "O17": {
+      "speaker": "olly",
+      "text": "WHOOOAA! What was THAT?",
+      "arabic": "واااو! ما كان ذلك؟",
+      "emotion": "surprised",
+      "delivery": "Whoa! What was THAT?"
+    },
+    "O18": {
+      "speaker": "olly",
+      "text": "Hey! Stop pushing!",
+      "arabic": "مهلًا! توقّف عن دفعي!",
+      "emotion": "frustrated"
+    },
+    "O19": {
+      "speaker": "olly",
+      "text": "I wasn't ready for this!",
+      "arabic": "لم أكن مستعدًا لهذا!",
+      "emotion": "afraid"
+    },
+    "O20": {
+      "speaker": "olly",
+      "text": "Okay! Okay! We're moving FAST!",
+      "arabic": "حسنًا، حسنًا! نحن نتحرّك بسرعة هائلة!",
+      "emotion": "excited"
+    },
+    "O21": {
+      "speaker": "olly",
+      "text": "This is the craziest ride ever!",
+      "arabic": "هذه أجنّ رحلة على الإطلاق!",
+      "emotion": "laughing"
+    },
+    "O22": {
+      "speaker": "olly",
+      "text": "Hey! Someone's changing the choke!",
+      "arabic": "مهلًا! أحدهم يغيّر فتحة صمام الخنق!",
+      "emotion": "surprised"
+    },
+    "O23": {
+      "speaker": "olly",
+      "text": "More room to flow? Now we're talking!",
+      "arabic": "مساحة أكبر للتدفّق؟ هذا ما أردته!",
+      "emotion": "happy"
+    },
+    "O24": {
+      "speaker": "olly",
+      "text": "Whoa! Easy on the controls!",
+      "arabic": "واو! تمهّل في تعديل أدوات التحكّم!",
+      "emotion": "afraid"
+    },
+    "O25": {
+      "speaker": "olly",
+      "text": "Careful! I don't want another surprise!",
+      "arabic": "احذر! لا أريد مفاجأة أخرى!",
+      "emotion": "afraid"
+    },
+    "O26": {
+      "speaker": "olly",
+      "text": "Hey! You're taking up all the space!",
+      "arabic": "مهلًا! أنت تشغل المكان كلّه!",
+      "emotion": "frustrated"
+    },
+    "O27": {
+      "speaker": "olly",
+      "text": "Somebody tell this bubble to calm down!",
+      "arabic": "فليطلب أحد من هذه الفقّاعة أن تهدأ!",
+      "emotion": "frustrated"
+    },
+    "O28": {
+      "speaker": "olly",
+      "text": "I need a little breathing room here!",
+      "arabic": "أحتاج إلى بعض المساحة لأتنفّس هنا!",
+      "emotion": "playful"
+    },
+    "O29": {
+      "speaker": "olly",
+      "text": "This is it! The final stretch!",
+      "arabic": "ها قد وصلنا إلى المرحلة الأخيرة!",
+      "emotion": "competitive"
+    },
+    "O30": {
+      "speaker": "olly",
+      "text": "Come on, Olly! You can do this!",
+      "arabic": "هيّا يا أولي! يمكنك فعلها!",
+      "emotion": "confident"
+    },
+    "O31": {
+      "speaker": "olly",
+      "text": "To the surface! Let's go!",
+      "arabic": "إلى السطح! هيا بنا!",
+      "emotion": "excited"
+    },
+    "O32": {
+      "speaker": "olly",
+      "text": "Not so fast, Gizmo!",
+      "arabic": "على مهلك يا غيزمو!",
+      "emotion": "competitive"
+    },
+    "O33": {
+      "speaker": "olly",
+      "text": "Okay, Gizmo. You're pretty fast!",
+      "arabic": "حسنًا يا غيزمو، أنت سريع حقًا!",
+      "emotion": "happy"
+    },
+    "O34": {
+      "speaker": "olly",
+      "text": "That was one wild ride!",
+      "arabic": "يا لها من رحلة مجنونة!",
+      "emotion": "laughing"
+    },
+    "O35": {
+      "speaker": "olly",
+      "text": "Next time, I'm bringing my running shoes!",
+      "arabic": "في المرّة القادمة سأحضر حذاء الجري!",
+      "emotion": "playful"
+    },
+    "G01": {
+      "speaker": "gizmo",
+      "text": "Ta-daaa! Guess who's here!",
+      "arabic": "تا دااا! خمّن من وصل!",
+      "emotion": "playful"
+    },
+    "G02": {
+      "speaker": "gizmo",
+      "text": "Hello, Olly! Did you miss me?",
+      "arabic": "مرحبًا يا أولي! هل اشتقت إليّ؟",
+      "emotion": "playful"
+    },
+    "G03": {
+      "speaker": "gizmo",
+      "text": "Ha-ha! Time for some bubbly trouble!",
+      "arabic": "ها ها! حان وقت مشاغبات الفقّاعات!",
+      "emotion": "laughing"
+    },
+    "G04": {
+      "speaker": "gizmo",
+      "text": "Look out! The gas is in the house!",
+      "arabic": "انتبهوا! الغاز وصل!",
+      "emotion": "excited"
+    },
+    "G05": {
+      "speaker": "gizmo",
+      "text": "Surprise! You've got competition!",
+      "arabic": "مفاجأة! صار لديك منافس!",
+      "emotion": "competitive"
+    },
+    "G06": {
+      "speaker": "gizmo",
+      "text": "Oh, really? Let's find out!",
+      "arabic": "أحقًا؟ لنعرف من الأسرع!",
+      "emotion": "competitive"
+    },
+    "G07": {
+      "speaker": "gizmo",
+      "text": "Ready or not, here I come!",
+      "arabic": "استعددت أم لا، ها أنا قادم!",
+      "emotion": "excited"
+    },
+    "G08": {
+      "speaker": "gizmo",
+      "text": "Wheee! Look at me go!",
+      "arabic": "ياااي! انظروا إليّ وأنا أنطلق!",
+      "emotion": "excited"
+    },
+    "G09": {
+      "speaker": "gizmo",
+      "text": "I'm floating, I'm flying, I'm unstoppable!",
+      "arabic": "أنا أطفو وأطير، ولا أحد يستطيع إيقافي!",
+      "emotion": "happy"
+    },
+    "G10": {
+      "speaker": "gizmo",
+      "text": "Too slow, Olly! Too slow!",
+      "arabic": "أنت بطيء جدًا يا أولي! بطيء جدًا!",
+      "emotion": "playful"
+    },
+    "G11": {
+      "speaker": "gizmo",
+      "text": "Catch me if you can!",
+      "arabic": "الحق بي إن استطعت!",
+      "emotion": "competitive"
+    },
+    "G12": {
+      "speaker": "gizmo",
+      "text": "Bubble power! Activated!",
+      "arabic": "تمّ تفعيل قوّة الفقّاعات!",
+      "emotion": "excited"
+    },
+    "G13": {
+      "speaker": "gizmo",
+      "text": "Whoa! These bubbles are getting BIG!",
+      "arabic": "واو! هذه الفقّاعات تكبر كثيرًا!",
+      "emotion": "surprised"
+    },
+    "G14": {
+      "speaker": "gizmo",
+      "text": "Make way! Bubble express coming through!",
+      "arabic": "أفسحوا الطريق! قطار الفقّاعات السريع قادم!",
+      "emotion": "excited"
+    },
+    "G15": {
+      "speaker": "gizmo",
+      "text": "Full speed ahead!",
+      "arabic": "إلى الأمام بأقصى سرعة!",
+      "emotion": "excited"
+    },
+    "G16": {
+      "speaker": "gizmo",
+      "text": "Olly! Hold on tight!",
+      "arabic": "أولي! تمسّك جيّدًا!",
+      "emotion": "afraid"
+    },
+    "G17": {
+      "speaker": "gizmo",
+      "text": "Three... two... one... BUBBLE BOOST!",
+      "arabic": "ثلاثة… اثنان… واحد… انطلاق الفقّاعات!",
+      "emotion": "excited"
+    },
+    "G18": {
+      "speaker": "gizmo",
+      "text": "Ha-ha-ha! Welcome to slug flow!",
+      "arabic": "ها ها ها! أهلًا بكم في التدفّق السدادي!",
+      "emotion": "celebrating",
+      "delivery": "Ha, ha, ha! Welcome to slug flow!"
+    },
+    "G19": {
+      "speaker": "gizmo",
+      "text": "Ooooh! I love a good speed challenge!",
+      "arabic": "أوووه! أحب تحدّيات السرعة!",
+      "emotion": "excited",
+      "delivery": "Ooh! I love a good speed challenge!"
+    },
+    "G20": {
+      "speaker": "gizmo",
+      "text": "Let's see what this baby can do!",
+      "arabic": "لنرَ ما الذي يستطيع هذا أن يفعله!",
+      "emotion": "playful"
+    },
+    "G21": {
+      "speaker": "gizmo",
+      "text": "Faster! Faster! Faster!",
+      "arabic": "أسرع! أسرع! أسرع!",
+      "emotion": "excited"
+    },
+    "G22": {
+      "speaker": "gizmo",
+      "text": "Hey! Who slowed us down?",
+      "arabic": "مهلًا! من أبطأنا؟",
+      "emotion": "frustrated"
+    },
+    "G23": {
+      "speaker": "gizmo",
+      "text": "Ha-ha! Now that's what I call action!",
+      "arabic": "ها ها! هذا ما أسمّيه حماسًا!",
+      "emotion": "laughing"
+    },
+    "G24": {
+      "speaker": "gizmo",
+      "text": "Whoa! I'm getting bigger!",
+      "arabic": "واو! أنا أكبر!",
+      "emotion": "surprised"
+    },
+    "G25": {
+      "speaker": "gizmo",
+      "text": "Look at me! Bubble muscles!",
+      "arabic": "انظروا إليّ! تلك عضلات الفقّاعات!",
+      "emotion": "confident"
+    },
+    "G26": {
+      "speaker": "gizmo",
+      "text": "More space, more bubbles, more fun!",
+      "arabic": "مساحة أكبر، فقّاعات أكثر، ومتعة أكبر!",
+      "emotion": "excited"
+    },
+    "G27": {
+      "speaker": "gizmo",
+      "text": "Is it just me, or am I expanding?",
+      "arabic": "هل أتخيّل، أم أنني أتمدّد؟",
+      "emotion": "surprised"
+    },
+    "G28": {
+      "speaker": "gizmo",
+      "text": "Last one to the surface is a sleepy bubble!",
+      "arabic": "آخر من يصل إلى السطح فقّاعة نعسانة!",
+      "emotion": "playful"
+    },
+    "G29": {
+      "speaker": "gizmo",
+      "text": "You'll never catch me!",
+      "arabic": "لن تلحق بي أبدًا!",
+      "emotion": "playful"
+    },
+    "G30": {
+      "speaker": "gizmo",
+      "text": "Here comes the bubble rocket!",
+      "arabic": "ها قد أتى صاروخ الفقّاعات!",
+      "emotion": "excited"
+    },
+    "G31": {
+      "speaker": "gizmo",
+      "text": "Ha-ha! This is awesome!",
+      "arabic": "ها ها! هذا رائع!",
+      "emotion": "laughing"
+    },
+    "G32": {
+      "speaker": "gizmo",
+      "text": "And you're one tough little oil drop!",
+      "arabic": "وأنت قطرة نفط صغيرة وقوية!",
+      "emotion": "happy"
+    },
+    "G33": {
+      "speaker": "gizmo",
+      "text": "Same tubing, different moves!",
+      "arabic": "الأنبوب نفسه، ولكلٍّ منّا طريقته!",
+      "emotion": "playful"
+    },
+    "G34": {
+      "speaker": "gizmo",
+      "text": "Ha-ha! See you at the next pressure drop!",
+      "arabic": "ها ها! نلتقي عند انخفاض الضغط القادم!",
+      "emotion": "laughing"
+    },
+    "N01": {
+      "speaker": "narrator",
+      "text": "Welcome to the Wellbore Fluid Race!",
+      "arabic": "أهلًا بكم في سباق موائع البئر!",
+      "emotion": "happy"
+    },
+    "N02": {
+      "speaker": "narrator",
+      "text": "Meet Olly, our confident little oil drop!",
+      "arabic": "تعرّفوا إلى أولي، قطرة النفط الصغيرة الواثقة بنفسها!",
+      "emotion": "happy"
+    },
+    "N03": {
+      "speaker": "narrator",
+      "text": "At first, the tubing contains single-phase liquid.",
+      "arabic": "في البداية، يحتوي أنبوب الإنتاج على سائل أحادي الطور.",
+      "emotion": "neutral"
+    },
+    "N04": {
+      "speaker": "narrator",
+      "text": "As pressure falls below the bubble point, dissolved gas begins to come out of the oil.",
+      "arabic": "عندما ينخفض الضغط عن ضغط نقطة الفقّاعة، يبدأ الغاز المذاب بالتحرّر من النفط.",
+      "emotion": "neutral"
+    },
+    "N05": {
+      "speaker": "narrator",
+      "text": "And now, Olly has some unexpected company!",
+      "arabic": "وها هو ضيف غير متوقّع ينضمّ إلى أولي!",
+      "emotion": "happy"
+    },
+    "N06": {
+      "speaker": "narrator",
+      "text": "Welcome to bubble flow! Free-gas bubbles now travel through the liquid.",
+      "arabic": "أهلًا بكم في التدفّق الفقّاعي! تتحرّك الآن فقّاعات الغاز الحرّ عبر السائل.",
+      "emotion": "happy"
+    },
+    "N07": {
+      "speaker": "narrator",
+      "text": "In this example, large gas pockets and liquid slugs move through the tubing.",
+      "arabic": "في هذا المثال، تتحرّك جيوب غاز كبيرة وسدادات سائلة داخل أنبوب الإنتاج.",
+      "emotion": "neutral"
+    },
+    "N08": {
+      "speaker": "narrator",
+      "text": "Notice how the flow becomes intermittent and more dynamic.",
+      "arabic": "لاحظوا كيف يصبح التدفّق متقطّعًا وأكثر تغيّرًا.",
+      "emotion": "neutral"
+    },
+    "N09": {
+      "speaker": "narrator",
+      "text": "Pressure, gas liberation, and flow conditions can change the way fluids move through a producing well.",
+      "arabic": "يمكن للضغط وتحرّر الغاز وظروف التدفّق أن تغيّر طريقة حركة الموائع في بئر إنتاج.",
+      "emotion": "neutral"
+    },
+    "N10": {
+      "speaker": "narrator",
+      "text": "Explore the controls and discover how the flow responds!",
+      "arabic": "جرّبوا أدوات التحكّم واكتشفوا كيف يتغيّر التدفّق!",
+      "emotion": "happy"
+    },
+    "B01": {
+      "speaker": "both",
+      "text": "WE MADE IT!",
+      "arabic": "لقد وصلنا!",
+      "emotion": "celebrating",
+      "tracks": [
+        "B01_OLLY",
+        "B01_GIZMO"
+      ]
+    },
+    "B01_OLLY": {
+      "speaker": "olly",
+      "text": "WE MADE IT!",
+      "arabic": "لقد وصلنا!",
+      "emotion": "celebrating"
+    },
+    "B01_GIZMO": {
+      "speaker": "gizmo",
+      "text": "WE MADE IT!",
+      "arabic": "لقد وصلنا!",
+      "emotion": "celebrating"
+    },
+    "X11": {
+      "speaker": "olly",
+      "text": "Hey, Gizmo! Why are you always in such a hurry?",
+      "arabic": "أهلًا يا غيزمو! لماذا أنت مستعجل دائمًا؟",
+      "emotion": "playful"
+    },
+    "X12": {
+      "speaker": "gizmo",
+      "text": "Because I've got places to bubble!",
+      "arabic": "لأن لديّ أماكن عليّ أن أُفقّع فيها!",
+      "emotion": "playful"
+    },
+    "X13": {
+      "speaker": "olly",
+      "text": "That doesn't even make sense!",
+      "arabic": "هذا لا معنى له أصلًا!",
+      "emotion": "surprised"
+    },
+    "X14": {
+      "speaker": "gizmo",
+      "text": "Neither does your speed!",
+      "arabic": "وسرعتك أيضًا لا معنى لها!",
+      "emotion": "playful"
+    },
+    "X21": {
+      "speaker": "gizmo",
+      "text": "Hey, Olly! Wanna race?",
+      "arabic": "أهلًا يا أولي! هل تريد أن نتسابق؟",
+      "emotion": "competitive"
+    },
+    "X22": {
+      "speaker": "olly",
+      "text": "We're already racing!",
+      "arabic": "نحن نتسابق بالفعل!",
+      "emotion": "surprised"
+    },
+    "X23": {
+      "speaker": "gizmo",
+      "text": "Oh! Then you're losing!",
+      "arabic": "أوه! إذن أنت تخسر!",
+      "emotion": "playful"
+    },
+    "X31": {
+      "speaker": "olly",
+      "text": "Slow and steady wins the race!",
+      "arabic": "الهدوء والثبات سبيل الفوز!",
+      "emotion": "confident"
+    },
+    "X32": {
+      "speaker": "gizmo",
+      "text": "Not when the bubbles are this fast!",
+      "arabic": "لا، حين تكون الفقّاعات بهذه السرعة!",
+      "emotion": "competitive"
+    },
+    "X33": {
+      "speaker": "olly",
+      "text": "That's what you think!",
+      "arabic": "هذا رأيك أنت!",
+      "emotion": "competitive"
+    },
+    "X41": {
+      "speaker": "gizmo",
+      "text": "Did somebody say pressure drop?",
+      "arabic": "هل قال أحدهم إن الضغط ينخفض؟",
+      "emotion": "playful"
+    },
+    "X42": {
+      "speaker": "olly",
+      "text": "Oh no. Not again!",
+      "arabic": "أوه لا. ليس مرّة أخرى!",
+      "emotion": "afraid"
+    },
+    "X43": {
+      "speaker": "gizmo",
+      "text": "Here comes the fun!",
+      "arabic": "ها قد بدأ المرح!",
+      "emotion": "excited"
+    },
+    "X51": {
+      "speaker": "olly",
+      "text": "Can we have one peaceful trip to the surface?",
+      "arabic": "هل يمكننا القيام برحلة هادئة واحدة إلى السطح؟",
+      "emotion": "frustrated"
+    },
+    "X52": {
+      "speaker": "gizmo",
+      "text": "Peaceful? Boooooring!",
+      "arabic": "هادئة؟ يا للملل!",
+      "emotion": "playful",
+      "delivery": "Peaceful? Boooring!"
+    },
+    "X53": {
+      "speaker": "olly",
+      "text": "I knew you were going to say that!",
+      "arabic": "كنت أعرف أنك ستقول ذلك!",
+      "emotion": "playful"
+    },
+    "X61": {
+      "speaker": "gizmo",
+      "text": "Olly! Look! I'm floating!",
+      "arabic": "أولي! انظر! أنا أطفو!",
+      "emotion": "excited"
+    },
+    "X62": {
+      "speaker": "olly",
+      "text": "You're a gas bubble, Gizmo!",
+      "arabic": "أنت فقّاعة غاز يا غيزمو!",
+      "emotion": "playful"
+    },
+    "X63": {
+      "speaker": "gizmo",
+      "text": "Exactly! I'm a professional!",
+      "arabic": "بالضبط! أنا محترف!",
+      "emotion": "confident"
+    },
+    "X15": {
+      "speaker": "both",
+      "text": "[Olly and Gizmo laugh]",
+      "arabic": "[يضحك أولي وغيزمو]",
+      "emotion": "laughing",
+      "tracks": [
+        "X15_OLLY",
+        "X15_GIZMO"
+      ]
+    },
+    "X15_OLLY": {
+      "speaker": "olly",
+      "text": "Ha-ha-ha!",
+      "arabic": "ها ها ها!",
+      "emotion": "laughing",
+      "delivery": "Ha, ha! Ha, ha!"
+    },
+    "X15_GIZMO": {
+      "speaker": "gizmo",
+      "text": "Ha-ha-ha!",
+      "arabic": "ها ها ها!",
+      "emotion": "laughing",
+      "delivery": "Ha! Ha, ha, ha!"
+    },
+    "DEMO_OLLY": {
+      "speaker": "olly",
+      "text": "YEAH! LET'S GOOOO! I'm gonna WIN this race! WOOHOO!",
+      "arabic": "أجل! هيّااا! سأفوز بهذا السباق! واااو!",
+      "emotion": "excited",
+      "delivery": "Yeah! Let's gooo! I'm gonna WIN this race! Woo-hoo!"
+    },
+    "DEMO_GIZMO": {
+      "speaker": "gizmo",
+      "text": "HAHAHA! Catch me if you CAAAAN! WHEEEE!",
+      "arabic": "ها ها ها! الحق بي إن استطعــــت! ياااي!",
+      "emotion": "laughing",
+      "delivery": "Ha, ha, ha! Catch me if you caaan! Wheee!"
+    }
+  },
+  "events": {
+    "race_start": [
+      [
+        "O01"
+      ]
+    ],
+    "welcome": [
+      [
+        "N01",
+        "N02"
+      ]
+    ],
+    "single_phase": [
+      [
+        "N03"
+      ]
+    ],
+    "single_phase_banter": [
+      [
+        "O02"
+      ],
+      [
+        "O03"
+      ],
+      [
+        "O04"
+      ],
+      [
+        "O05"
+      ],
+      [
+        "O06"
+      ]
+    ],
+    "pressure_drop": [
+      [
+        "O07"
+      ],
+      [
+        "O08"
+      ],
+      [
+        "O09"
+      ]
+    ],
+    "bubble_point_crossed": [
+      [
+        "N04",
+        "N05"
+      ]
+    ],
+    "gas_appeared": [
+      [
+        "G01"
+      ]
+    ],
+    "gas_challenge": [
+      [
+        "G02",
+        "O10",
+        "G06"
+      ],
+      [
+        "G03",
+        "O11",
+        "G07"
+      ],
+      [
+        "G04",
+        "O12"
+      ],
+      [
+        "G05",
+        "O11",
+        "G06"
+      ]
+    ],
+    "bubble_flow": [
+      [
+        "N06"
+      ]
+    ],
+    "bubble_flow_banter": [
+      [
+        "G08",
+        "O13"
+      ],
+      [
+        "G09",
+        "O14"
+      ],
+      [
+        "G10",
+        "O15"
+      ],
+      [
+        "G12",
+        "O16"
+      ]
+    ],
+    "gas_accelerated": [
+      [
+        "G11"
+      ]
+    ],
+    "slug_flow": [
+      [
+        "G13",
+        "O17",
+        "G18"
+      ],
+      [
+        "G14",
+        "O18"
+      ],
+      [
+        "G15",
+        "O19"
+      ],
+      [
+        "G16",
+        "O20"
+      ],
+      [
+        "G17",
+        "O21"
+      ]
+    ],
+    "slug_narration": [
+      [
+        "N07",
+        "N08"
+      ]
+    ],
+    "choke_changed": [
+      [
+        "O22"
+      ],
+      [
+        "O24"
+      ],
+      [
+        "O25"
+      ],
+      [
+        "G19"
+      ],
+      [
+        "G20"
+      ],
+      [
+        "G23"
+      ]
+    ],
+    "flow_accelerated": [
+      [
+        "O23"
+      ],
+      [
+        "G21"
+      ]
+    ],
+    "flow_decelerated": [
+      [
+        "G22"
+      ]
+    ],
+    "gas_expansion": [
+      [
+        "G24",
+        "O26"
+      ],
+      [
+        "G25",
+        "O27"
+      ],
+      [
+        "G26",
+        "O28"
+      ],
+      [
+        "G27",
+        "O26"
+      ]
+    ],
+    "finale": [
+      [
+        "O29",
+        "G28",
+        "O32"
+      ],
+      [
+        "O30",
+        "G29",
+        "O32"
+      ],
+      [
+        "O31",
+        "G30",
+        "G31"
+      ]
+    ],
+    "victory": [
+      [
+        "B01"
+      ]
+    ],
+    "celebration": [
+      [
+        "O33",
+        "G32"
+      ],
+      [
+        "O34",
+        "G33"
+      ],
+      [
+        "O35",
+        "G34"
+      ]
+    ],
+    "conclusion": [
+      [
+        "N09",
+        "N10"
+      ]
+    ],
+    "ambient_conversation": [
+      [
+        "X11",
+        "X12",
+        "X13",
+        "X14",
+        "X15"
+      ],
+      [
+        "X21",
+        "X22",
+        "X23"
+      ],
+      [
+        "X31",
+        "X32",
+        "X33"
+      ],
+      [
+        "X41",
+        "X42",
+        "X43"
+      ],
+      [
+        "X51",
+        "X52",
+        "X53"
+      ],
+      [
+        "X61",
+        "X62",
+        "X63"
+      ]
+    ],
+    "demo_olly": [
+      [
+        "DEMO_OLLY"
+      ]
+    ],
+    "demo_gizmo": [
+      [
+        "DEMO_GIZMO"
+      ]
+    ],
+    "demo": [
+      [
+        "DEMO_OLLY",
+        "DEMO_GIZMO"
+      ]
+    ],
+    "choke_changed_olly": [
+      [
+        "O22"
+      ],
+      [
+        "O24"
+      ],
+      [
+        "O25"
+      ]
+    ],
+    "flow_accelerated_olly": [
+      [
+        "O23"
+      ]
+    ],
+    "flow_decelerated_olly": [
+      [
+        "O13"
+      ]
+    ],
+    "finale_olly": [
+      [
+        "O29"
+      ],
+      [
+        "O30"
+      ],
+      [
+        "O31"
+      ]
+    ],
+    "victory_olly": [
+      [
+        "B01_OLLY"
+      ]
+    ],
+    "celebration_olly": [
+      [
+        "O34"
+      ],
+      [
+        "O35"
+      ]
+    ]
+  }
+}
